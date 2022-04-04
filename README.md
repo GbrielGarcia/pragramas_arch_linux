@@ -13,7 +13,7 @@
 
 3.. Pasos a seguir.
 
-- El archivo descargado y el archivo descargado (recomendado tenerlos en la misma carpeta "Documentos o Descargas").
+- El archivo descargado y el archivo clonado (recomendado tenerlos en la misma carpeta "Documentos o Descargas").
 
 - descomprimir el archivo con tar -zxf packettreacer.tar.gz
 - una vez realizo, pasar el archivo .deb dentro de la carpeta descomprimida de packert trace.
